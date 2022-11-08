@@ -1,4 +1,4 @@
-<img src="https://www.wnpower.com/wp-content/uploads/2019/11/logo-hosting-argentina.png">
+<a href="https://www.wnpower.com" alt="WNPower Hosting"><img src="https://www.wnpower.com/wp-content/uploads/2019/11/logo-hosting-argentina.png"></a>
 
 ### En WNPower hacemos el hosting más completo con herramientas geniales, soporte fanático y servidores ultra veloces en Amazon AWS.
 
